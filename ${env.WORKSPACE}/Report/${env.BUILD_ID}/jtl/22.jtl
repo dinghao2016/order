@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="68" it="0" lt="68" ct="44" ts="1529927829323" s="true" lb="login" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="4535" sby="195" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="64" it="0" lt="63" ct="0" ts="1529927829406" s="true" lb="login2" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="306" sby="293" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1529927829471" s="true" lb="home" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="17675" sby="264" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+
+</testResults>
